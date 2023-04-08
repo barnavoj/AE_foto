@@ -1,0 +1,16 @@
+{
+    "austin.mode": "CPU time",
+    "python.languageServer": "Default",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.addImport.exactMatchOnly": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
+
+
+}
