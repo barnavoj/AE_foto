@@ -1,0 +1,7 @@
+matplotlib
+numpy
+opencv_python
+pandas
+scikit_learn
+scipy
+tensorflow-gpu==2.10.1

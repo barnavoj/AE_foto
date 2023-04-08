@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.layers import Dense, Conv2D, MaxPool2D, Flatten, Reshape, InputLayer, Conv2DTranspose, UpSampling2D
-from IPython.display import clear_output
+
 
 matplt.use('Agg')
 
