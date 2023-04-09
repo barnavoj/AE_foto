@@ -1,2 +1,3 @@
 ## Python app to cluster photos to similar groups
-### Using Autoencoder type Neural Network implemented in TensorFlow 
+### Using VGG16 Convolutional Neural Network model for fearure extraction implemented in TensorFlow
+### Using PCA and KMeans clustering implemented in SKlearn
